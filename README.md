@@ -1,2 +1,2 @@
 ## Jacobi Iterations Method
-Solving a linear system using the Jacobi iterations method
+Solving a linear system using the Jacobi iterative method
