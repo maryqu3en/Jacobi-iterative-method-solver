@@ -1,6 +1,3 @@
-'''                                 Program made by SOUBIH Meriem and ZELLAL Nourelhouda || L2 G8                                     '''
-
-
 # importing the NumPy library for numerical operations
 import numpy as np
 # ------------------------ display welcome and guide message ------------------------
