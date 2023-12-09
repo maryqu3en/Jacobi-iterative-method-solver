@@ -66,4 +66,7 @@ Welcome to the Jacobi Iterative Method Solver! This Python program is designed t
 - If the matrix is not diagonally dominant, the program attempts to adjust it, but it may not always succeed.
 - Choose the solution method based on your preference: the number of iterations or convergence error.
 
+## Dependencies
+- This program requires `numpy` to do calculations.
+
 Feel free to explore and analyze various linear systems using this Jacobi Iterative Method Solver!
